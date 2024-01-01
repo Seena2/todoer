@@ -1,0 +1,11 @@
+{
+  "name": "todolister",
+  "version": "1.0.0",
+  "description": "Todo list app, simplifying the management of your todo-list memo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seena",
+  "license": "ISC"
+}
