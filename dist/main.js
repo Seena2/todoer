@@ -1,0 +1,1 @@
+(()=>{console.log("test todolister");const e=document.querySelector(".content"),t=document.createElement("h2");t.textContent="Welcome to the Todolister",e.appendChild(t)})();
