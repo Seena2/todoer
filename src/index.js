@@ -1,8 +1,15 @@
-//test the JS
-console.log("test todolister");
+import newProject from "./newProject";
+import home from "./home.js"
 
-//test DOM
-const content=document.querySelector('.content');
-const heading=document.createElement('h2');
-heading.textContent='Welcome to the Todolister';
-content.appendChild(heading);
+//call newProject on page load
+newProject();
+
+//Call DOM manuplation module serveing as home page for UI
+home();
+
+//Todo project creation
+
+//
+
+//Event listeners for interactivity and manuplation
+
